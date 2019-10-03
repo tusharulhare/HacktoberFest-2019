@@ -19,8 +19,9 @@ Write these command on your terminal-
     
 Then create your pull request.
 
-Star my repository.
-Follow me
+    Star my repository.
+    
+    Follow to my account
 
 Congratulations!! You have successfully created your pull request.
 
