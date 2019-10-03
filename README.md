@@ -7,7 +7,7 @@ Follow these steps to make your first pull request-
 
     Clone your forked repository to your local machine.
 
-    Add your name in index.html
+    Add your name in index.html (Just open "index.html" and include your name and the link to your github profile in the "li" tags to make a connection with all other open enthusiasts like us.)
 
 Write these command on your terminal-
 
