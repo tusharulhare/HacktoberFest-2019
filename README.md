@@ -29,4 +29,4 @@ Congratulations!! You have successfully created your pull request.
 
 Check your progress here (https://hacktoberfest.digitalocean.com/profile)
 
-Wait for your shirt.. Enjoy Coding.. Visit my reposities for furthur help.
+Wait for your shirt.. Enjoy Coding.. Visit my reposities for furthur help
