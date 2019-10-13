@@ -11,9 +11,9 @@ Please Follow these steps to make your first pull request-
 
 Write these command on your terminal-
 
-    git add -A
+    git add -abhishekmankuskar
     
-    git commit -m "your name"
+    git commit -m "Abhishek Mankusar"
     
     git push origin master
     
@@ -27,6 +27,6 @@ Then create your pull request.
 
 Congratulations!! You have successfully created your pull request.
 
-Check your progress here (https://hacktoberfest.digitalocean.com/profile)
+
 
 Wait for your shirt.. Enjoy Coding.. Visit my reposities for furthur help
