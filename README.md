@@ -11,9 +11,9 @@ Please Follow these steps to make your first pull request-
 
 Write these command on your terminal-
 
-    git add -abhishekmankuskar
+    git add .
     
-    git commit -m "Abhishek Mankusar"
+    git commit -m "message"
     
     git push origin master
     
